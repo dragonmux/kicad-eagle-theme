@@ -1,0 +1,32 @@
+{
+	"$schema": "https://go.kicad.org/pcm/schemas/v1",
+	"name": "Eagle (Dark)",
+	"description": "An EAGLE-inspired dark theme",
+	"description_full": "A dark theme designed by dragonmux, inspired by EAGLE",
+	"identifier": "network.dragonmux.eagle",
+	"type": "colortheme",
+	"author": {
+		"name": "Rachel Mant",
+		"contact": {
+			"github": "https://github.com/dragonmux"
+		}
+	},
+	"maintainer": {
+		"name": "Rachel Mant",
+		"contact": {
+			"github": "https://github.com/dragonmux"
+		}
+	},
+	"license": "CC0-1.0",
+	"resources": {
+		"GitHub": "https://github.com/dragonmux/kicad-eagle-theme"
+	},
+	"versions": [
+		{
+			"version": "2024.07.24",
+			"status": "stable",
+			"kicad_version": "8.0",
+			"install_size": 5358
+		}
+	]
+}
