@@ -26,6 +26,9 @@
 			"version": "2024.07.24",
 			"status": "stable",
 			"kicad_version": "8.0",
+			"download_url": "https://github.com/dragonmux/kicad-eagle-theme/releases/download/2024.07.24/kicad-eagle-theme.zip",
+			"download_sha256": "3eda4c3419389c94a6472aa2bdadf21bbb9db7dc3f440375d61a0503f5615971",
+			"download_size": 5617,
 			"install_size": 5358
 		}
 	]
